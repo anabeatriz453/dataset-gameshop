@@ -7,7 +7,7 @@ Meu projeto feitos no curso da DIO de ultilização de prompts inteligentes  par
 
 # Objetivos
 
-- [x] Consolidar todas as bases de terceiros para realizar uma análise
-- [x] Transformar dados de vendas em informações relevantes para a fabricante
-- [x] Quais são os produtos mais populares em cada país
-- [x] Como otimizar o processo de transporte e logística até o momento da venda
+- [✔] Consolidar todas as bases de terceiros para realizar uma análise
+- [✔] Transformar dados de vendas em informações relevantes para a fabricante
+- [✔] Quais são os produtos mais populares em cada país
+- [✔] Como otimizar o processo de transporte e logística até o momento da venda
